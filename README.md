@@ -5,10 +5,4 @@ The objective of this project was to perform initial and exploratory analysis fo
 # Data
 The dataset used for this project consists of open-source data from 2017, which was made available by [Instacart](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2).
 # Tools
-The project involved the use of both Excel and Python. In Python, several libraries were utilized, including:
-
-• Pandas
-• NumPy
-• Seaborn
-• Matplotlib
-• SciPy
+The project involved the use of both Excel and Python. In Python, several libraries were utilized, including: Pandas, NumPy, Seaborn, Matplotlib, and SciPy.
